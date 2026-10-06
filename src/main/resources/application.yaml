@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: external-services
+server:
+  port: 7070
